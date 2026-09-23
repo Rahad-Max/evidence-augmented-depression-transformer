@@ -1,0 +1,5 @@
+# Experiment Configuration
+# Do not hard-code datasets or models here until confirmed.
+seed: 42
+data:
+  path: "../data/"
